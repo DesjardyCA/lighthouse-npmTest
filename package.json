@@ -19,5 +19,9 @@
   "homepage": "https://github.com/DesjardyCA/lighthouse-npmTest#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cowsay": "^1.4.0"
   }
 }
