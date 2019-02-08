@@ -1,0 +1,23 @@
+{
+  "name": "lighthouse-npmTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesjardyCA/lighthouse-npmTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesjardyCA/lighthouse-npmTest/issues"
+  },
+  "homepage": "https://github.com/DesjardyCA/lighthouse-npmTest#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
